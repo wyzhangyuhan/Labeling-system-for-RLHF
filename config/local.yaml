@@ -1,0 +1,17 @@
+ackedge_domain: 
+server_port: 
+database_dsn: 
+s3_domain: 
+bucket_name: 
+s3_access_id:
+s3_access_key: 
+DBusername:
+DBpassword: 
+DBhost: 
+DBname: 
+
+
+oss_endpoint: 
+oss_bucket_name: 
+oss_access_id: 
+oss_access_key: 

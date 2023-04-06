@@ -10,7 +10,7 @@
 
 - 多轮标注展示
 <div align="center">
-<img src="/data/home/zhangyuhan/go_project/labeling-system-for-RLHF/docs/multi.png" width="700" >
+<img src="docs/multi.png" width="700" >
 </div>
 
 可对模型生成回答进行排序与修改。排序即可转换为RLHF阶段对模型生成的回答打分。后续考虑补充部分标注标签：敏感信息（有/无）、有害性（1~5）。
@@ -27,7 +27,7 @@
 ---
 ## 系统演示
 <div align="center">
-<img src="/data/home/zhangyuhan/go_project/labeling-system-for-RLHF/docs/labeling_show.png" width="700" >
+<img src="docs/labeling_show.png" width="700" >
 </div>
 
 
@@ -43,18 +43,18 @@
 ## 基本框架
 - 框架
 <div align="center">
-<img src="/data/home/zhangyuhan/go_project/labeling-system-for-RLHF/docs/label sys.png" width="700" >
+<img src="docs/label sys.png" width="700" >
 </div>
 
 - 时序图
 <div align="center">
-<img src="/data/home/zhangyuhan/go_project/labeling-system-for-RLHF/docs/label logic.png" width="700" >
+<img src="docs/label logic.png" width="700" >
 </div>
 
 
 - 数据库设计
 <div align="center">
-<img src="/data/home/zhangyuhan/go_project/labeling-system-for-RLHF/docs/labeled sys.png" width="700" >
+<img src="docs/labeled sys.png" width="700" >
 </div>
 
    - user表：存储用户信息，绑定每次标注会话
